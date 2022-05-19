@@ -1,2 +1,0 @@
-# learn-solidity
-for everyone
